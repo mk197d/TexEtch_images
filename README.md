@@ -1,3 +1,6 @@
+**Author**: [Mayank Kumar](www.linkedin.com/in/mayank-kumar-1aa821254)  
+**GitHub**: [mk197d](https://github.com/mk197d)
+
 # TexEtch
 
 TexEtch is a Visual Studio Code extension designed to convert diagrams drawn in draw.io into text format. This text format can be easily integrated into your code base to provide better explanations and documentation for your code.
@@ -26,8 +29,6 @@ The extension can be installed from Visual Studio Code Marketplace.
 ![Step 4](https://github.com/mk197d/TexEtch/blob/main/Step4.png)
 7. To view the output in the editor as a file, go to the output channel and use the "Views and More Actions..." option.
 ![Step 5](https://github.com/mk197d/TexEtch/blob/main/Step5.png)
-
-## Examples
 
 ## Supported Figures
 
