@@ -27,10 +27,18 @@ The extension can be installed from Visual Studio Code Marketplace.
 7. To view the output in the editor as a file, go to the output channel and use the "Views and More Actions..." option.
 ![Step 5](https://github.com/mk197d/TexEtch/blob/main/Step5.png)
 
-## Example
+## Examples
 
-### Original Diagram
+## Supported Figures
 
+- **Horizontal and Vertical lines**: Line, Dashed Line, Dotted Line, Directional and Bidirectional Connector and Arrow\\
+<img src="https://github.com/mk197d/TexEtch/blob/main/Circle.png" alt="Circle" width="50%">    Support for slanted lines coming soon!
 
-### Converted Text
+- **Circle and Ellipse**
+![Circle](https://github.com/mk197d/TexEtch/blob/main/Circle.png)
+<img src="https://github.com/mk197d/TexEtch/blob/main/Ellipse.png" alt="Ellipse" width="50%">
+- **Text**
+    - Use text size as **11** in the draw.io editor to match the exact ratio of figures and text in the final output.
+    - Avoid copying text from sources with colorful text to prevent disperancies in the output.
 
+- **Rectangle** 
