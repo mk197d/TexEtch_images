@@ -36,8 +36,10 @@ The extension can be installed from Visual Studio Code Marketplace.
     Support for slanted lines coming soon!
 
 - **Circle and Ellipse**
-<img src="https://github.com/mk197d/TexEtch/blob/main/Circle.png" alt="Circle" width="50%">
-<img src="https://github.com/mk197d/TexEtch/blob/main/Ellipse.png" alt="Ellipse" width="50%">
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/mk197d/TexEtch/blob/main/Circle.png" alt="Circle" width="25%">
+  <img src="https://github.com/mk197d/TexEtch/blob/main/Ellipse.png" alt="Ellipse" width="50%">
+</div>
 - **Text**
     - Use text size as **11** in the draw.io editor to match the exact ratio of figures and text in the final output.
     - Avoid copying text from sources with colorful text to prevent disperancies in the output.
