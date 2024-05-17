@@ -16,12 +16,16 @@ The extension can be installed from Visual Studio Code Marketplace.
 ## Usage
 1. Open the draw.io website or application and create a file containing your desired diagram.
 2. Navigate to File -> Export as -> XML and download the file.
-![Step 1](images/Step1.png)
+![Step 1](https://github.com/mk197d/TexEtch/blob/main/Step1.png)
 3. In Visual Studio Code, open the command palette by pressing Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (macOS).
 4. Type TexEtch and select the corresponding command.
+![Step 2](https://github.com/mk197d/TexEtch/blob/main/Step2.png)
 5. An Open Dialog box will appear, prompting you to select the required .xml file.
+![Step 3](https://github.com/mk197d/TexEtch/blob/main/Step3.png)
 6. After selecting the file, the output will be displayed in an output channel named TexEtch_out.
+![Step 4](https://github.com/mk197d/TexEtch/blob/main/Step4.png)
 7. To view the output in the editor as a file, go to the output channel and use the "Views and More Actions..." option.
+![Step 5](https://github.com/mk197d/TexEtch/blob/main/Step5.png)
 
 ## Example
 
