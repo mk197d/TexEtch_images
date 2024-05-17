@@ -1,5 +1,5 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]: [Mayank Kumar](www.linkedin.com/in/mayank-kumar-1aa821254)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)]: [mk197d](https://github.com/mk197d)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue): [Mayank Kumar](www.linkedin.com/in/mayank-kumar-1aa821254)  
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black): [mk197d](https://github.com/mk197d)
 
 # TexEtch
 
