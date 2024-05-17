@@ -32,7 +32,7 @@ The extension can be installed from Visual Studio Code Marketplace.
 ## Supported Figures
 
 - **Horizontal and Vertical lines**: Line, Dashed Line, Dotted Line, Directional and Bidirectional Connector and Arrow\\
-![Lines](https://github.com/mk197d/TexEtch/blob/main/Lines.png)
+![Lines](https://github.com/mk197d/TexEtch/blob/main/Lines2.png)
     Support for slanted lines coming soon!
 
 - **Circle and Ellipse**
