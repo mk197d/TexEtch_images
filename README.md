@@ -32,10 +32,11 @@ The extension can be installed from Visual Studio Code Marketplace.
 ## Supported Figures
 
 - **Horizontal and Vertical lines**: Line, Dashed Line, Dotted Line, Directional and Bidirectional Connector and Arrow\\
-<img src="https://github.com/mk197d/TexEtch/blob/main/Circle.png" alt="Circle" width="50%">    Support for slanted lines coming soon!
+![Lines](https://github.com/mk197d/TexEtch/blob/main/Lines.png)
+    Support for slanted lines coming soon!
 
 - **Circle and Ellipse**
-![Circle](https://github.com/mk197d/TexEtch/blob/main/Circle.png)
+<img src="https://github.com/mk197d/TexEtch/blob/main/Circle.png" alt="Circle" width="50%">
 <img src="https://github.com/mk197d/TexEtch/blob/main/Ellipse.png" alt="Ellipse" width="50%">
 - **Text**
     - Use text size as **11** in the draw.io editor to match the exact ratio of figures and text in the final output.
