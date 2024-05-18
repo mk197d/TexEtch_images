@@ -1,4 +1,3 @@
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue): [Mayank Kumar](www.linkedin.com/in/mayank-kumar-1aa821254)  
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black): [mk197d](https://github.com/mk197d)
 
 # TexEtch
@@ -32,7 +31,7 @@ The extension can be installed from Visual Studio Code Marketplace.
 
 ## Supported Figures
 
-- **Horizontal and Vertical lines**: Line, Dashed Line, Dotted Line, Directional and Bidirectional Connector and Arrow\\
+- **Horizontal and Vertical lines**: Line, Dashed Line, Dotted Line, Directional and Bidirectional Connector and Arrow.
 ![Lines](https://github.com/mk197d/TexEtch/blob/main/Lines2.png)
     Support for slanted lines coming soon!
 
@@ -47,3 +46,19 @@ The extension can be installed from Visual Studio Code Marketplace.
     - Avoid copying text from sources with colorful text to prevent disperancies in the output.
 
 - **Rectangle** 
+
+## Examples
+
+- Drawing stacks in architecture code.
+  ![ex2b](https://github.com/mk197d/TexEtch/blob/main/ex2b.png) 
+  ![ex2a](https://github.com/mk197d/TexEtch/blob/main/ex2a.png) 
+
+- Initializing classes with many fields.
+  ![ex3b](https://github.com/mk197d/TexEtch/blob/main/ex3b.png) 
+  ![ex3a](https://github.com/mk197d/TexEtch/blob/main/ex3a.png)
+
+- Algorithm on arrays
+  ![ex1](https://github.com/mk197d/TexEtch/blob/main/ex1.png)
+
+- Just for fun..
+  ![ex5](https://github.com/mk197d/TexEtch/blob/main/ex5.png)
