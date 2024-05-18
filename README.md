@@ -42,28 +42,29 @@ The extension can be installed from Visual Studio Code Marketplace.
 </div>
 
 - **Text**
-    - Use text size as **11** in the draw.io editor to match the exact ratio of figures and text in the final output.
-    - Avoid copying text from sources with colorful text to prevent disperancies in the output.
+    - Use text size as **11** in the draw.io editor to match the exact ratio of figures and text in the final output.<br>
+    - Avoid copying text from sources with colorful text to prevent disperancies in the output.<br>
+    - Leave enough space on both sides of text box so that the text appears in same format.
 
 - **Rectangle** 
 
 ## Examples
 
-- Drawing stacks in architecture code.\\
+- Drawing stacks in architecture code.<br>
   **Before**
   ![ex2b](https://github.com/mk197d/TexEtch/blob/main/ex2b.png) 
   **After**
   ![ex2a](https://github.com/mk197d/TexEtch/blob/main/ex2a.png) 
 
-- Initializing classes with many fields.\\
+- Initializing classes with many fields.<br>
   **Before**
   ![ex3b](https://github.com/mk197d/TexEtch/blob/main/ex3b.png) 
   **After**
   ![ex3a](https://github.com/mk197d/TexEtch/blob/main/ex3a.png)
 
-- Algorithm on arrays\\
+- Algorithm on arrays<br>
   ![ex1](https://github.com/mk197d/TexEtch/blob/main/ex1.png)
 
-- Just for fun..\\
+- Just for fun..<br>
 
   ![ex5](https://github.com/mk197d/TexEtch/blob/main/ex5.png)
