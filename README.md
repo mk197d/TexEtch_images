@@ -50,15 +50,20 @@ The extension can be installed from Visual Studio Code Marketplace.
 ## Examples
 
 - Drawing stacks in architecture code.
+  **Before**
   ![ex2b](https://github.com/mk197d/TexEtch/blob/main/ex2b.png) 
+  **After**
   ![ex2a](https://github.com/mk197d/TexEtch/blob/main/ex2a.png) 
 
 - Initializing classes with many fields.
+  **Before**
   ![ex3b](https://github.com/mk197d/TexEtch/blob/main/ex3b.png) 
+  **After**
   ![ex3a](https://github.com/mk197d/TexEtch/blob/main/ex3a.png)
 
 - Algorithm on arrays
   ![ex1](https://github.com/mk197d/TexEtch/blob/main/ex1.png)
 
 - Just for fun..
+
   ![ex5](https://github.com/mk197d/TexEtch/blob/main/ex5.png)
