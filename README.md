@@ -25,13 +25,13 @@ The extension can be installed from Visual Studio Code Marketplace.
 ![Walkthrough 1](https://github.com/mk197d/TexEtch/blob/main/walkthrough1.mp4)
     - To put the generated text at top of a code snippet -> put the cursor on the line just above the block.
     <div style="display: flex; align-items: center;">
-      <img src="https://github.com/mk197d/TexEtch/blob/main/above_b.png" alt="Above_b" width="50%">
-      <img src="https://github.com/mk197d/TexEtch/blob/main/above_a.png" alt="Above_a" width="50%">
+      <img src="https://github.com/mk197d/TexEtch/blob/main/above_b.png" alt="Above_b" width="100%">
+      <img src="https://github.com/mk197d/TexEtch/blob/main/above_a.png" alt="Above_a" width="100%">
     </div>
     - To put the generated text alongside the code -> select the code block.
     <div style="display: flex; align-items: center;">
-      <img src="https://github.com/mk197d/TexEtch/blob/main/along_b.png" alt="Along_a" width="50%">
-      <img src="https://github.com/mk197d/TexEtch/blob/main/along_a.png" alt="Along_b" width="50%">
+      <img src="https://github.com/mk197d/TexEtch/blob/main/along_b.png" alt="Along_a" width="100%">
+      <img src="https://github.com/mk197d/TexEtch/blob/main/along_a.png" alt="Along_b" width="100%">
     </div>
 
 
