@@ -1,8 +1,8 @@
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black): [mk197d](https://github.com/mk197d)
+![GitHub](https://github.com/mk197d/TexEtch/blob/main/https://img.shields.io/badge/GitHub-Profile-black): [mk197d](https://github.com/mk197d/TexEtch/blob/main/https://github.com/mk197d)
 
 # TexEtch
 
-TexEtch is a Visual Studio Code extension designed to convert diagrams drawn in [draw.io](https://app.diagrams.net/) into text format. This text format can be easily integrated into your code base to provide better explanations and documentation for your code.
+TexEtch is a Visual Studio Code extension designed to convert diagrams drawn in [draw.io](https://github.com/mk197d/TexEtch/blob/main/https://app.diagrams.net/) into text format. This text format can be easily integrated into your code base to provide better explanations and documentation for your code.
 
 ## Features
 
@@ -23,17 +23,19 @@ The extension can be installed from Visual Studio Code Marketplace.
 5. An Open Dialog box will appear, prompting you to select the required .xml file.
 6. After selecting the file, a text input box will appear to take in the comment characters used for the language in use or any string of your choice. Leave empty for no extra characters.
 ![Walkthrough 1](https://github.com/mk197d/TexEtch/blob/main/walkthrough1.gif)
-    - To put the generated text at top of a code snippet -> put the cursor on the line just above the block.
-      
-    <div style="display: flex; align-items: center;">
-      <img src="https://github.com/mk197d/TexEtch/blob/main/above_b.png" alt="Above_b" width="100%">
-      <img src="https://github.com/mk197d/TexEtch/blob/main/above_a.png" alt="Above_a" width="100%">
-    </div>
+7.  - To put the generated text at top of a code snippet -> put the cursor on the line just above the block.
+    *Before*
+    ![Above_b](https://github.com/mk197d/TexEtch/blob/main/above_b.png)
+    *After*
+    ![Above_a](https://github.com/mk197d/TexEtch/blob/main/above_a.png)
+    
     - To put the generated text alongside the code -> select the code block.
-    <div style="display: flex; align-items: center;">
-      <img src="https://github.com/mk197d/TexEtch/blob/main/along_b.png" alt="Along_a" width="100%">
-      <img src="https://github.com/mk197d/TexEtch/blob/main/along_a.png" alt="Along_b" width="100%">
-    </div>
+
+    *Before*
+    ![Along_b](https://github.com/mk197d/TexEtch/blob/main/along_b.png)
+    *After*
+    ![Along_a](https://github.com/mk197d/TexEtch/blob/main/along_a.png)
+ 
 
 
 ## Supported Figures
@@ -43,8 +45,8 @@ The extension can be installed from Visual Studio Code Marketplace.
 
 - **Circle and Ellipse**
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/mk197d/TexEtch/blob/main/Circle.png" alt="Circle" width="25%">
-  <img src="https://github.com/mk197d/TexEtch/blob/main/Ellipse.png" alt="Ellipse" width="50%">
+  <img src="Circle.png" alt="Circle" width="25%">
+  <img src="Ellipse.png" alt="Ellipse" width="50%">
 </div>
 
 - **Text**
