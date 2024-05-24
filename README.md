@@ -22,8 +22,9 @@ The extension can be installed from Visual Studio Code Marketplace.
 4. Type TexEtch and select the corresponding command.
 5. An Open Dialog box will appear, prompting you to select the required .xml file.
 6. After selecting the file, a text input box will appear to take in the comment characters used for the language in use or any string of your choice. Leave empty for no extra characters.
-![Walkthrough 1](https://github.com/mk197d/TexEtch/blob/main/walkthrough1.mp4)
+![Walkthrough 1](https://github.com/mk197d/TexEtch/blob/main/walkthrough1.gif)
     - To put the generated text at top of a code snippet -> put the cursor on the line just above the block.
+      
     <div style="display: flex; align-items: center;">
       <img src="https://github.com/mk197d/TexEtch/blob/main/above_b.png" alt="Above_b" width="100%">
       <img src="https://github.com/mk197d/TexEtch/blob/main/above_a.png" alt="Above_a" width="100%">
